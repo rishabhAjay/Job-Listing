@@ -1,5 +1,4 @@
-﻿using HotelListing.API.Data.Entities;
-using JobListing.Data.Entities;
+﻿using JobListing.Data.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 

@@ -1,6 +1,4 @@
-﻿using HotelListing.API.Data.Entities;
-
-namespace JobListing.Data.Entities
+﻿namespace JobListing.Data.Entities
 {
     public class Skill
     {

@@ -1,6 +1,4 @@
-using JobListing.Data.Entities;
-
-namespace HotelListing.API.Data.Entities
+namespace JobListing.Data.Entities
 {
     //Define the Country Entity that models that Countries Table
     public class Job : Timestamps
